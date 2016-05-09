@@ -1,4 +1,9 @@
-<h1 id="an-exhibit-of-markdown">An exhibit of Markdown</h1>
+---
+title:This is secondpage.md
+layout:default
+---
+
+<h1 id="an-exhibit-of-markdown">Second Page - An exhibit of Markdown</h1>
 
 <p>This note demonstrates some of what Markdown is capable of doing.</p>
 
@@ -14,4 +19,4 @@
 
 <h2 id="hyperlink-to-another-page">Hyperlink to another page</h2>
 
-<p>Go to <a href="secondpage.html">Second Page</a></p>
+<p>Go to <a href="index.html">index Page</a></p>
