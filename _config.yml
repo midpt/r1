@@ -1,0 +1,4 @@
+# this will show up at the top of your page
+name: sample default
+#  specify markdown engin
+markdown: kramdown
