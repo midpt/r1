@@ -1,4 +1,7 @@
-
+---
+title:My second page
+layout:default
+---
 # This is Second page
 
 [the clickable text](http://xlson.com/)
