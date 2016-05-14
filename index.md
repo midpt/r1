@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project title
+title: Project R!
 tagline: GitHub Project Pages
 description: ....
 ---
