@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Project R!
+layout:default
+title: Project R1
 tagline: GitHub Project Pages
 description: ....
 ---
